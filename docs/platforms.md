@@ -1,6 +1,6 @@
 # Launch platforms
 
-_Generated from `data/platforms.yaml` — 89 platforms, 57 with a free tier. Edit the YAML, not this file._
+_Generated from `data/platforms.yaml` — 90 platforms, 57 with a free tier. Edit the YAML, not this file._
 
 Legend — **requires**: what the free tier asks for. `badge` = their badge on your homepage, `upvotes:N` / `comments:N` = you must support other launches first (human task), `review` = manual approval, `dr_min:N` = minimum Domain Rating. **votes**: `now` = listing page takes upvotes today, `at_launch` = from the launch date, `none` = directory only.
 
@@ -69,6 +69,7 @@ Legend — **requires**: what the free tier asks for. `badge` = their badge on y
 | [LaunchPanda](https://www.launchpanda.dev) | launch | google, email_link | ? | — |  |  | now |  | 2026-10-06 |
 | [ListBulb](https://www.listbulb.com) | directory | google | ? | — |  |  | ? |  | 2026-10-06 |
 | [Nick Launches](https://nicklaunches.com) | launch | google | ? | — |  |  | now |  | 2026-10-06 |
+| [Public Prompts](https://www.publicprompts.art/) | directory | google | no | — |  | $19.99 one-time plus applicable tax | none |  | 2026-10-16 |
 | [ToolPilot](https://www.toolpilot.ai) | directory | shop | ? | — |  |  | ? |  | 2026-10-06 |
 | [Yo.directory](https://yo.directory) | directory | email_link | ? | — |  |  | ? |  | 2026-10-06 |
 

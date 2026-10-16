@@ -518,3 +518,15 @@
 - {id: directree, name: directree, url: https://www.directree.io, login: [google], kind: directory, verified: null}
 - {id: spacerrapps, name: SpacerrApps, url: https://spacerrapps.com, login: [google], kind: directory, verified: null}
 - {id: publishyoursaas, name: PublishYourSaaS, url: https://publishyoursaas.com, login: [google], kind: directory, verified: null}
+
+- id: publicprompts
+  name: Public Prompts
+  url: https://www.publicprompts.art/
+  submit: https://www.publicprompts.art/submit
+  login: [google]
+  kind: directory
+  free: null
+  paid: "$19.99 one-time plus applicable tax"
+  votes: none
+  notes: "Free browsing only. Owner submissions pay before editorial review; accepted listings within two days of payment, full refund if declined or unpublishable. Published tool links are nofollow. Policy: https://www.publicprompts.art/editorial-policy"
+  verified: 2026-10-16
